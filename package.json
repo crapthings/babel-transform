@@ -10,10 +10,6 @@
     "lodash"
   ],
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://bitbucket.org/amctheatres/babel-transform-imports.git"
-  },
   "homepage": "https://bitbucket.org/amctheatres/babel-transform-imports",
   "scripts": {
     "test": "mocha --require @babel/register"
